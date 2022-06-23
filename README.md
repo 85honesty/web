@@ -3,9 +3,11 @@
 
 ## 프로젝트 소개
 - Dailman 웹 페이지 만들기
-- vscoode 사용
-- Html, Css, Javascript 활용
-- github
+
+## 프로젝트 사용 프로그램
+- 코드프로그램 vscoode ver.1.68.1 
+- 분산버전 관리프로그램 github
+- 웹호스팅서버 netlify
 
 ## 프로젝트 일정
 |프로젝트 기간    |  요일     | 시간       |
