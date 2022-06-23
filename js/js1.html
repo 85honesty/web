@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">        <title>Document</title>
+    </head>
+    
+    <body>
+        <h2>웹페이지에서 실행</h2>
+        <h3>script 태그~</h3>
+        
+        1+1<br> = 
+        <script>
+            document.write(1+1);
+            
+        </script>
+
+        <h2>이벤트</h2>
+        <input type="button" value="hi" onclick="alert('hi')" onmouseover="alert('꽝')">
+
+        <h2>버튼을 누르면 배경색이 바뀝니다</h2>
+        <input type="button" value="배경색상 화이트로 바꾸기" onclick="document.querySelector('body').style.backgroundColor='white';
+        document.querySelector('body').style.Color='black';">
+        <br>
+
+        <h2>버튼을 누르면 배경색이 바뀝니다</h2>
+        <input type="button" value="배경색상 블랙으로 바꾸기" onclick="document.querySelector('body').style.backgroundColor='black';
+        document.querySelector('body').style.Color='white';">
+
+        <input type="button" value="night" onclick="document.querySelector('body').style.color = 'white';
+        document.querySelector('body').style.backgroundColor = 'black';" 
+        >
+        
+
+    </body>
+</html>
