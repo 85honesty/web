@@ -1,5 +1,5 @@
 # 프로젝트 웹개발 (Project Web Development)
-- Dailman 웹 페이지 만들기
+- Dailyman 웹 페이지 만들기
 
 ## 프로젝트 소개
 - Dailman 웹 페이지 만들기
